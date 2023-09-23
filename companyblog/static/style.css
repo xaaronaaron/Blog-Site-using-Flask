@@ -1,0 +1,23 @@
+.background-image {
+    background-image: url("background.jpg");
+    background-size: cover;
+    /*background-repeat: no-repeat; */
+    width: 200vh;
+    height: 200vh;  
+    
+}
+
+.background-image-index {
+    background-image: url("background.jpg");
+    background-size: cover;
+    /*background-repeat: no-repeat; */
+    width: 115vh;
+    height: 194vh;  
+    
+}
+
+.translucent-card {
+    background-color: rgba(255, 255, 255, 0.347); /* Adjust the alpha (fourth) value as needed for the desired transparency */
+    border: 1px solid rgba(0, 0, 0, 0.1); /* Optional: add a border with transparency */
+    /*padding: 10px;  Optional: adjust padding as needed */
+}
